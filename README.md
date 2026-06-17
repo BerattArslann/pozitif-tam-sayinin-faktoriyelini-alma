@@ -1,0 +1,1 @@
+# pozitif-tam-sayinin-faktoriyelini-alma
